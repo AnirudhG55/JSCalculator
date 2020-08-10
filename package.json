@@ -1,0 +1,11 @@
+{
+  "name": "jscalc",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "jsCalc.js",
+  "scripts": {
+    "test": "node jsCalc.js"
+  },
+  "author": "Anirudh Gupta",
+  "license": "ISC"
+}
