@@ -8,7 +8,6 @@ Features:
   - The application also has been dockerized.
   
   
-  *
-    The application is currently under process to being uploaded to the cloud using AWS Elastic Beanstalk 
+ **The application is currently under process to being uploaded to the cloud using AWS Elastic Beanstalk 
     
   
